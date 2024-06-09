@@ -5,7 +5,7 @@ https://kobl.ca/
 
 Site structure:
 
-Home
+Home<br>
 ┣━About Deli (socials, autobiography, etc)<br>
 ┃ ┣━VRChat (unity, blender, substance)<br>
 ┃ ┣━Servers (nginx, game hosting, samba)<br>
